@@ -21,6 +21,9 @@
 ## 👨🏻‍💻 Laptop in use
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-333333?style=for-the-badge&logo=apple&logoColor=white"/>
 
+## 🛒 Apps on Store
+[![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)]([https://play.google.com/store/apps/dev?id=7703305844118303242](https://play.google.com/store/apps/dev?id=8282881121169577203))
+
 <!--
 **imayush-chauhan/imayush-chauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
