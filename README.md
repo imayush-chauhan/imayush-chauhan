@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imayush-chauhan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="imayush-chauhan" /> </p>
+
 [![imayush-chauhan's github stats](https://github-readme-stats.vercel.app/api?username=imayush-chauhan)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
