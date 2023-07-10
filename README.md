@@ -3,8 +3,8 @@
          height="45"
          width="45" /> I'm Ayush Chauhan</h1>
 
-
-[![imayush-chauhan's github stats](https://github-readme-stats.vercel.app/api?username=imayush-chauhan)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![imayush-chauhan's github stats](https://github-readme-stats.vercel.app/api?username=imayush-chauhan)](https://github.com/anuraghazra/github-readme-stats) -->
 
 # 💫 About Me :
 - 🌱 I’m currently learning more about Artificial Intelligence.
